@@ -16,4 +16,5 @@ Packages και κλάσεις που φτιάχτηκαν:
 4.	Model package: περιέχει όλα τα model objects
 5.	Services package: περιέχει όλα τα services
 6.	File Reader class: διαβάζει τα περιεχόμενα ενός αρχείου και επιστρέφει μια λίστα με τα περιεχόμενα του
+
 Στον resources folder βρίσκονται τα csv files.
