@@ -4,7 +4,7 @@
 
 1.	Eclipse (Version: 2024-09)
 2.	Java 1.8
-3.	Jarx rs (restfull framework – Version: 4.0.0-M1)
+3.	Jax rs (restfull framework – Version: 4.0.0-M1)
 4.	Maven
 
 
